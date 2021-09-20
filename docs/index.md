@@ -1,5 +1,9 @@
 Week 1 (Python Basics)
 
+* [HTML-file](./python-tutorial.html)
+* [Notebook](./python-tutorial.ipynb)
 
-* [![](img/logo/HTML5_logo.svg){:height="20px"} View](./python-tutorial.html)
-* [Download](./python-tutorial.ipynb)
+Week 2 (T-test and correlation)
+
+* [HTML-file](./stat-tests/statistical-inference.html)
+* [Notebook](./stat-tests/statistical-inference.ipynb)
